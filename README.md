@@ -2,5 +2,5 @@
 RELF - Open Source Real Estate Lead Form. Simple and Customizable 
 
 **Requirements:**
-- min. PHP 7.1 
+min. PHP7.1 or higher
 
