@@ -14,10 +14,8 @@ Note: This version of RELF is still in BETA! It can generally be used but some f
   - Persons with more technical knowledge can modify the form in full
 
 **Requirements:**
-
-Webserver (e.g. Apache or Nginx)
-
-min. PHP 7.2 or higher
+- Webserver (e.g. Apache or Nginx)
+- min. PHP 7.2 or higher
 
 
 **Used libraries & tools**
@@ -30,6 +28,7 @@ min. PHP 7.2 or higher
 
 A complete guide how to install and use RELF (BETA) can u get here: 
 
+https://akegodev.com/...
 
 **Planed Features for release (v.1.0)**
 We have planed such 
