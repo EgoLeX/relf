@@ -6,6 +6,13 @@ Note: This version of RELF is still in BETA! It can generally be used but some f
 
 -----------------------------------------------------------------------
 
+**Features**
+- Made from a person with contacts to real estate companies
+- Open Source version is fully free to use
+- This lead form is fully customizable - Select the wanted queries and change the appearance of the form.
+- Even non-technical people can easily customize many elements of the form (colors, texts as well as the questions asked) 
+  - Persons with more technical knowledge can modify the form in full
+
 **Requirements:**
 
 Webserver (e.g. Apache or Nginx)
