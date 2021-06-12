@@ -36,6 +36,7 @@ We have planed such
 - Input Validation
 - New optimized icons (current icons are only placeholders)
 - New modern Theme (The Beta style keeps)
+- change paths to images in a separate file
 
 
 **Planed Features after release**
