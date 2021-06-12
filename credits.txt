@@ -1,0 +1,12 @@
+This software use parts of another software or written code by another people. Credits are going to:
+
+> W3Schools - https://www.w3schools.com/howto/howto_js_form_steps.asp => Multi Step Form basement
+> Icons and Font by Google Fonts - https://fonts.google.com/icons
+> Use parts of bootstrap framework - https://getbootstrap.com/
+
+
+> Images from Vecteezy:
+  - Call Us - https://www.vecteezy.com/free-vector/call-us
+  - Online Form - https://www.vecteezy.com/free-vector/online-form
+
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
