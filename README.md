@@ -29,7 +29,7 @@ Note: This version of RELF is still in BETA! It can generally be used but some f
 
 A complete guide how to install and use RELF (BETA) can u get here: 
 
-https://akegodev.com/...
+https://akegodev.com/software/docs/relf_documentation_english_opensource_version.pdf
 
 **Planed Features for release (v.1.0)**
 We have planed such 
@@ -40,6 +40,6 @@ We have planed such
 
 
 **Planed Features after release**
-- Wordpress Plugin (read more at https://akegodev.com/software-tools/relf)
+- Wordpress Plugin (read more at https://akegodev.com/software-tools/relf-real-estate-lead-form)
 - customizable endscreen if no redirect url was entered
 - Predefined location selection (also to intercept evaluation requests outside the own service area) 
